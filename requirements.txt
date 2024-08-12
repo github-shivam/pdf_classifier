@@ -1,4 +1,4 @@
-annotated-types==0.7.0
+pannotated-types==0.7.0
 anyio==4.4.0
 asttokens==2.4.1
 blinker==1.8.2
@@ -67,7 +67,6 @@ pyparsing==3.1.2
 pytesseract==0.3.10
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
 pyzmq==26.1.0
 regex==2024.7.24
 requests==2.32.3
